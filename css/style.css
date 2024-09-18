@@ -1,0 +1,141 @@
+< !-- Codigo para a barra de menu -->body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Concert One", sans-serif;
+    border-radius: 100px;
+}
+
+.banner {
+    margin-top: 235px;
+    text-align: center;
+
+}
+
+.banner img {
+
+    border-radius: 20px;
+    box-shadow: 0 0 20px black;
+}
+
+.menu {
+    width: 100%;
+    background-color: #9f6c25d2;
+    overflow: hidden;
+    text-decoration: none;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+
+
+.menu a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-right: 35vh;
+}
+
+.center {
+    margin-left: 38%;
+
+}
+
+
+
+.text {
+
+    /* background-color:rgb(225, 150, 0); */
+    background-color: #CD853F;
+    padding: 0.1%;
+
+}
+
+.lateralEsquerda {
+    font-size: 120%;
+    margin-right: 10%;
+
+}
+
+.lateralDireita {
+    font-size: 120%;
+    margin-top: -11.4%;
+    margin-left: 85%;
+
+}
+
+
+.ofertac {
+
+    margin-left: 20%;
+    margin-top: 10px;
+
+}
+
+.ofertac img {
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px;
+    margin-top: 20px;
+
+}
+
+.ofertag {
+
+    margin-left: 53.5%;
+    margin-top: -224px;
+
+}
+.ofertag img {
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px;
+    margin-top: 20px;
+
+}
+
+.text2 {
+
+background-color: black;
+color: white;
+
+}
+
+.promocoes1 {
+width: 18%;
+border-radius: 3px;
+box-shadow: 0 0 10px black;
+border-color: black;
+
+}
+.promocoes2 {
+    width: 18%;
+    border-radius: 3px;
+    box-shadow: 0 0 10px black;
+    border-color: black;
+    margin-top: 30px;
+    }
+
+    .promocoes3 {
+        width: 18%;
+        border-radius: 3px;
+        box-shadow: 0 0 10px black;
+        border-color: black;
+        margin-top: -620px;
+        margin-left: 500px;
+        }
+        .promocoes4 {
+            width: 18%;
+            border-radius: 3px;
+            box-shadow: 0 0 10px black;
+            border-color: black;
+            margin-top: 30px;
+            margin-left: 500px;
+            
+            }
